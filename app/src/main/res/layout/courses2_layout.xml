@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/layout2"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_marginLeft="3dp"
+        android:layout_marginRight="3dp"
+       >
+
+
+                <ImageView
+                    android:id="@+id/imgview"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/ic_gutir" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/imgview"
+            android:layout_alignTop="@+id/imgview"
+            android:layout_alignRight="@+id/imgview"
+            android:layout_alignBottom="@+id/imgview"
+            android:layout_gravity="bottom"
+            android:layout_margin="10dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#E1D6D6"
+                android:text="@string/name"
+                android:textColor="@color/black"
+                android:textStyle="bold" />
+
+
+            <com.borjabravo.readmoretextview.ReadMoreTextView
+                android:id="@+id/textinfo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:background="#E1D6D6"
+                android:text="@string/information"
+                android:textColor="@color/black"
+                app:trimExpandedText="show more"
+                app:trimCollapsedText="show less"
+                app:trimMode="trimModeLine"
+                app:trimLength="20"
+                app:colorClickableText="@color/red"
+                />
+        </LinearLayout>
+
+
+
+    </androidx.cardview.widget.CardView>
+</layout>

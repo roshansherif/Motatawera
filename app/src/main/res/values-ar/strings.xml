@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="program_to_provide_information_on_educational_service_providers">يوفر تطبيق الهاتف المحمول معلومات عن مقدمي الخدمات التعليمية</string>
+    <string name="email">بريد إلكتروني</string>
+    <string name="password">كلمه السر</string>
+
+    <string name="by_creating_an_account_you_agree_to_our_terms_of_service_and_privacy_policy">من خلال إنشاء حساب ، فإنك توافق على شروط الخدمة وسياسة الخصوصية الخاصة بنا</string>
+    <string name="new_user_sign_up">مستخدم جديد؟ اشتراك</string>
+    <string name="sign_in">تسجيل الدخول</string>
+    <string name="forgot_password">هل نسيت كلمة السر؟</string>
+    <string name="your_password_must_be_at_least_6_character">يجب أن تتكون كلمة المرور الخاصة بك من 6 أحرف على الأقل</string>
+    <string name="phone">هاتف</string>
+    <string name="sign_up">اشتراك</string>
+    <string name="confirm_password">تأكيد كلمة المرور</string>
+    <string name="app_name">Motatawera Edu</string>
+    <string name="remember_me">تذكرنى</string>
+    <string name="favorite">المفضل</string>
+    <string name="profile">الملف الشخصي</string>
+    <string name="filters">المرشحات</string>
+    <string name="a_student_at_the_higher_institute_for_advanced_studies_division_of_management_information_systems">طالبة في المعهد العالي للدراسات المتقدمة شعبة نظم المعلومات الإدارية</string>
+    <string name="hi_username">مرحبًا ، اسم المستخدم</string>
+    <string name="save">حفظ</string>
+    <string name="home">الصفحة الرئيسية</string>
+    <string name="info">معلومات</string>
+    <string name="show_courses">عرض الدورات</string>
+    <string name="information_courese">دورة إعلامية</string>
+    <string name="code">رمز</string>
+    <string-array name="category">
+        <item>إلكتروني</item>
+        <item>تجاره</item>
+        <item>نظم</item>
+        <item>اللغات</item>
+
+    </string-array>
+    <string name="first_fragment_label">الجزء الأول</string>
+    <string name="second_fragment_label">الجزء الثاني</string>
+    <string name="next">التالي</string>
+    <string name="previous">سابق</string>
+    <string name="hello_first_fragment">مرحبا الجزء الأول</string>
+    <string name="my_courses">دوراتي</string>
+    <string name="todo">لكى يفعل</string>
+    <string name="take_sure_you_remember_your_password">تأكد من تذكر كلمة المرور الخاصة بك</string>
+    <string name="your_current_password">كلمة السر الحالية الخاصة بك</string>
+    <string name="new_password">كلمة السر الجديدة</string>
+    <string name="confirm_passwoord">تأكيد كلمة المرور</string>
+
+    <string name="an_android_application_that_enables_users_to_know_enough_information_about_the_sites_and_places_of_educational_service_providers_whether_online_or_offline_where_the_user_can_search_for_courses_charters_and_training_courses_and_display_information_about_them_and_partner_institutions_can_announce_their_own_courses_and_provide_with_the_availability_of_reservation_through_the_application">تطبيق الاندرويد يمكّن المستخدمين من معرفة معلومات كافية حول مواقع وأماكن مقدمي الخدمات التعليمية سواء عبر الإنترنت أو غير متصل بالإنترنت حيث يمكن للمستخدم البحث</string>
+    <string name="login_with_facebook">تسجيل الدخول باستخدام الفيسبوك</string>
+    <string name="login_with_google">تسجيل الدخول عبر جوجل</string>
+    <string name="play">لعب</string>
+    <string name="android_studio_is_the_official_integrated_development_environment_for_google_s_android_operating_system">الاندرويد استوديو هي بيئة التطوير الرسمية المتكاملة لنظام التشغيل الاندرويد من جوجل</string>
+    <string name="built_on_jetbrains_intellij_idea_software_and_designed_specifically_for_android_development">مبني على برنامج فكرة انتليج من JetBrains ومصمم خصيصًا لتطوير الاندرويد</string>
+    <string name="note">ملحوظة</string>
+    <string name="forgot_passwoord">هل نسيت كلمة السر</string>
+    <string name="enter_the_email_address_you_used_to_create_your_account_and_we_will_email_you_a_link_to_reset_your_password">أدخل عنوان البريد الإلكتروني الذي استخدمته لإنشاء حسابك وسنرسل لك رابطًا عبر البريد الإلكتروني لإعادة تعيين كلمة المرور الخاصة بك</string>
+    <string name="your_email_here">بريدك الإلكتروني هنا</string>
+    <string name="reset_password">إعادة تعيين كلمة المرور</string>
+    <string name="theme">الموضوعات</string>
+    <string name="light">ضوءالنهار</string>
+    <string name="language">لغة</string>
+    <string name="java_coures">دورة جافا</string>
+    <string name="javascript_is_one_of_the_most_ubiquitous_programming_languages_on_the_planet_mostly_because_it_s_the_backbone_of_interactive_web_applications">تعد جافا سكريبت واحدة من أكثر لغات البرمجة انتشارًا على هذا الكوكب ، ويرجع ذلك في الغالب إلى أنها العمود الفقري لتطبيقات الويب التفاعلية</string>
+    <string name="next_academy">نكست أكاديمي</string>
+    <string name="_999_l_e">999 ج</string>
+    <string name="_12_12_2021">12/12/2021</string>
+    <string name="el_motatawera_edu">المتطورة ايدو</string>
+    <string name="naame">اسم</string>
+    <string name="information">معلومة</string>
+    <string name="name">اسم</string>
+    <string name="indormation">معلومة</string>
+    <string name="center_name">اسم_المركز</string>
+    <string name="city">مدينة</string>
+    <string name="price">سعر</string>
+    <string name="course_name">اسم الدورة التدريبية</string>
+    <string name="cours_information">دورة معلومات</string>
+    <string name="haram">الهرم</string>
+    <string name="kattamia">قطامية</string>
+    <string name="online">متصل</string>
+    <string name="offline">غير متصل على الانترنت</string>
+    <string name="free">مجانا</string>
+    <string name="music">موسيقى</string>
+    <string name="art_house">بيت الفن</string>
+    <string name="our_core_learning_system_is_the_easiest_way_for_a_beginner_to_learn_guitar_it_s_a_step_by_step_series_of_videos_that_teach_using_simple_songs_to_make_learning_fun">نظام التعلم الأساسي لدينا هو أسهل طريقة للمبتدئين لتعلم الجيتار. إنها سلسلة من مقاطع الفيديو خطوة بخطوة تُعلمك باستخدام أغانٍ بسيطة لجعل التعلم ممتعًا!</string>
+    <string name="action_2">الإجراء_2</string>
+    <string name="update_profile">تحديث الملف</string>
+    <string name="change_password">تغيير كلمة السر</string>
+    <string name="setting">الاعدادات</string>
+    <string name="logout">تسجيل خروج</string>
+    <string name="choose_language">اختر اللغة</string>
+    <string name="english">الإنجليزية</string>
+    <string name="arabic">عربى</string>
+    <string name="save_language">حفظ اللغة</string>
+    <string name="motatawera_edu">Motatawera Edu</string>
+    <string name="invalid_email">يجب ادخال البريد الالكتروني بشكل صحيح</string>
+    <string name="valid_email" >">البريد الالكتروني مطلوب</string>
+    <string name="validpassword">كلمة المرور مطلوبة</string>
+    <string name="invalid_password">يجب أن تتكون كلمة المرور من 6 أرقام</string>
+    <string name="msg">خطأ</string>
+    <string name="confirm_valid_password">"تأكيد كلمة المرور مطلوب"</string>
+    <string name="confirm_invalid_password">يجب أن يتكون تأكيد كلمة المرور من 6 أرقام</string>
+    <string name="not_equal_password">كلمة المرور لا تساوي تأكيد كلمة المرور</string>
+    <string name="name_required">مطلوب اسم</string>
+    <string name="phone_required">الهاتف مطلوب</string>
+    <string name="invalid_phone">مطلوب هاتف غير صالح</string>
+    <string name="Congratulation">تهنئة</string>
+    <string name="Account_created_successful">تم إنشاء الحساب بنجاح</string>
+    <string name="Data_Saved">البيانات المحفوظة</string>
+    <string name="ok">حسنا</string>
+    <string name="No_favourites_yet">لا مفضلات حتى الآن</string>
+    <string name="mycourses">دوراتي</string>
+    <string name="user">المستخدمين</string>
+    <string name="no">لا</string>
+    <string name="mostviewed">الأكثر مشاهدة</string>
+    <string name="giza">الجيزة</string>
+    <string name="cairo">القاهرة</string>
+    <string name="out_of_range">خارج النطاق</string>
+    <string name="False">خاطئة</string>
+    <string name="True">صحيحة</string>
+    <string name="category">الفئة</string>
+    <string name="Isonline">متصل</string>
+    <string name="Are_You_Sure">هل أنت واثق</string>
+    <string name="yes">نعم</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="Cancel">إلغاء</string>
+    <string name="Image">صورة</string>
+    <string name="Error_in_task">خطأ في المهمة</string>
+    <string name="Sign_up">تسجيل</string>
+    <string name="new_user">مستخدم جديد</string>
+    <string name="data_saved_at_your_courses_page">تم التسجيل في صفحه الكورسات الخاصه بك </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

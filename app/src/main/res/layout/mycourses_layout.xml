@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/btnmycourse"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="15dp"
+        android:orientation="vertical"
+        android:outlineSpotShadowColor="@color/red">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:orientation="vertical">
+
+                    <ImageView
+                        android:id="@+id/cours_image"
+                        android:layout_width="match_parent"
+                        android:layout_height="150dp"
+                        android:layout_weight="1"
+                        android:contentDescription="@string/todo"
+                        android:src="@drawable/image_most" />
+
+
+                    <TextView
+                        android:id="@+id/course_name"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:padding="1dp"
+                        android:text="@string/course_name"
+                        android:textColor="@color/color3" />
+
+
+
+                <com.borjabravo.readmoretextview.ReadMoreTextView
+                    android:id="@+id/course_info"
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"
+                    android:layout_weight="1"
+                    android:padding="1dp"
+                    android:text="@string/cours_information"
+                    android:textSize="10sp"
+                    android:textStyle="bold"
+                    app:colorClickableText="@color/red"
+                    app:trimCollapsedText="show less"
+                    app:trimExpandedText="show more"
+                    app:trimLength="20"
+                    app:trimMode="trimModeLine" />
+
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+    </layout>

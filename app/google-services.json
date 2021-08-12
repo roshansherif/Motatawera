@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "865500864837",
+    "project_id": "egy-edu-26c94",
+    "storage_bucket": "egy-edu-26c94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865500864837:android:081daee368b93fa32bde2c",
+        "android_client_info": {
+          "package_name": "com.example.egyedu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865500864837-3dsg4pehk21rdcaeplrgp8fpvjsnsm8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5KCm8cYKWv2DKi4x7j0Ej-7sKyeaF968"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865500864837-3dsg4pehk21rdcaeplrgp8fpvjsnsm8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865500864837:android:31b75cd5d0859bc52bde2c",
+        "android_client_info": {
+          "package_name": "com.example.projectegyedu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865500864837-3dsg4pehk21rdcaeplrgp8fpvjsnsm8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5KCm8cYKWv2DKi4x7j0Ej-7sKyeaF968"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865500864837-3dsg4pehk21rdcaeplrgp8fpvjsnsm8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
